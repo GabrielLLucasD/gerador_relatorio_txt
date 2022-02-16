@@ -1,5 +1,5 @@
 ___________________________________________________________________
-<h2>__Exercício feito para treinar a manipulação de strings no python__</h2>
+<h2>*Exercício feito para treinar a manipulação de strings no python*</h2>
 ___________________________________________________________________
 
 
